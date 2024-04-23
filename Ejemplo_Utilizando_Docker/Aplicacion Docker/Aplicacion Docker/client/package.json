@@ -1,0 +1,9 @@
+{
+  "name": "chat-client",
+  "version": "1.0.0",
+  "description": "Simple chat client using Socket.io",
+  "main": "index.html",
+  "dependencies": {
+    "socket.io-client": "^4.2.0"
+  }
+}
